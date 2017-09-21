@@ -1,0 +1,84 @@
+
+body{
+
+	font-family: 'Flamenco', 'Yanone Kaffeesatz';
+	font-size: 20px;
+    background: #8c8c8c;
+    width: 800px;
+    margin: auto;
+}
+h1{
+    color: #1d1d1d;
+
+}
+header{
+    height: 100px;
+    background-color: #6c6c6c;
+
+}
+header h1{
+    float: left;
+    margin: 26.8px;
+    margin-left: 0px;
+
+}
+header nav{
+    float: right;
+    margin: 26.8px;
+    margin-right: 0px;
+
+}
+main{
+    overflow:auto;
+    background-color: white;
+}
+main img{
+    float: right;
+}
+main h2,p{
+    margin-top:  0px;
+    max-width: 500px;
+    float: left;
+    clear: none;
+}
+
+main h3{
+    float: left;
+    max-width: 500px;
+    clear: left;
+    overflow: auto;
+}
+main ul,li{
+     margin-top:  0px;
+     max-width: 500px;
+     float: left;
+     clear: left;
+ }
+
+
+
+
+.contact {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    float: left;
+
+}
+.site_map {
+    float: right;
+    overflow: auto;
+
+}
+.site_map li{
+    margin-bottom: 10px;
+}
+.ul1{
+    float: left;
+}
+.ul2{
+    float: right;
+}
+footer {
+    background-color: #6c6c6c;
+    overflow: auto;
+}
